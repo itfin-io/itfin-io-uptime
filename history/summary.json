@@ -40,18 +40,20 @@
     "url": "https://api.nomi.tools",
     "icon": "https://icons.duckduckgo.com/ip3/api.nomi.tools.ico",
     "slug": "nomi-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 443,
-    "timeWeek": 526,
-    "timeMonth": 572,
-    "timeYear": 572,
-    "dailyMinutesDown": {}
+    "time": 1128,
+    "timeDay": 10243,
+    "timeWeek": 2966,
+    "timeMonth": 1128,
+    "timeYear": 1128,
+    "dailyMinutesDown": {
+      "2025-11-08": 0
+    }
   },
   {
     "name": "nomi-welcome",
