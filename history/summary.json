@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nomi.tools.ico",
     "slug": "nomi",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 331,
     "timeDay": 307,
     "timeWeek": 340,
     "timeMonth": 342,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 19
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api.nomi.tools",
     "icon": "https://icons.duckduckgo.com/ip3/api.nomi.tools.ico",
     "slug": "nomi-api",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.92%",
-    "time": 974,
-    "timeDay": 496,
-    "timeWeek": 602,
-    "timeMonth": 1137,
-    "timeYear": 974,
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.93%",
+    "time": 957,
+    "timeDay": 407,
+    "timeWeek": 556,
+    "timeMonth": 1109,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2025-11-18": 8,
+      "2025-11-18": 0,
       "2025-11-08": 36
     }
   },
@@ -63,19 +63,19 @@
     "url": "https://welcome.nomi.tools",
     "icon": "https://icons.duckduckgo.com/ip3/welcome.nomi.tools.ico",
     "slug": "nomi-welcome",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 286,
-    "timeDay": 263,
-    "timeWeek": 263,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 281,
+    "timeDay": 212,
+    "timeWeek": 243,
+    "timeMonth": 279,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 0
     }
   }
 ]
