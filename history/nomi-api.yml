@@ -1,7 +1,7 @@
 url: https://api.nomi.tools
-status: down
-code: 522
-responseTime: 19909
-lastUpdated: 2026-01-20T05:49:12.691Z
+status: up
+code: 200
+responseTime: 450
+lastUpdated: 2026-01-20T06:33:30.673Z
 startTime: 2025-10-11T21:26:46.642Z
 generator: Upptime <https://github.com/upptime/upptime>
