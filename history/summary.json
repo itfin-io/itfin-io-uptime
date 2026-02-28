@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.itfin.io.ico",
     "slug": "itfin",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 644,
+    "uptime": "99.52%",
+    "uptimeDay": "32.64%",
+    "uptimeWeek": "90.38%",
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "99.52%",
+    "time": 645,
     "timeDay": 737,
     "timeWeek": 591,
     "timeMonth": 580,
-    "timeYear": 644,
+    "timeYear": 645,
     "dailyMinutesDown": {
-      "2026-02-28": 3
+      "2026-02-28": 970
     }
   },
   {
