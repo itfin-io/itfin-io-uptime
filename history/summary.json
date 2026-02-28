@@ -6,16 +6,18 @@
     "slug": "itfin",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 644,
     "timeDay": 737,
     "timeWeek": 591,
     "timeMonth": 580,
     "timeYear": 644,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-28": 3
+    }
   },
   {
     "name": "nomi",
