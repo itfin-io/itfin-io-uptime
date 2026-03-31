@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.itfin.io.ico",
     "slug": "itfin",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "99.60%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.61%",
     "time": 630,
     "timeDay": 485,
     "timeWeek": 513,
-    "timeMonth": 568,
+    "timeMonth": 567,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2026-02-28": 970
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nomi.tools.ico",
     "slug": "nomi",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 282,
     "timeDay": 138,
     "timeWeek": 198,
@@ -69,9 +69,9 @@
     "url": "https://welcome.nomi.tools",
     "icon": "https://icons.duckduckgo.com/ip3/welcome.nomi.tools.ico",
     "slug": "nomi-welcome",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -81,6 +81,7 @@
     "timeMonth": 221,
     "timeYear": 274,
     "dailyMinutesDown": {
+      "2026-03-31": 0,
       "2025-11-18": 126
     }
   }
